@@ -1,6 +1,6 @@
 # Structured Attention Composition for Temporal Action Localization
 
-This repository is the official implementation of SAC. In this work, we tackle the temporal action localization task from the perspective of modality, and precisely assign frame-modality attention. Paper from [arXiv]().
+This repository is the official implementation of SAC. In this work, we tackle the temporal action localization task from the perspective of modality, and precisely assign frame-modality attention. Paper from [arXiv](https://arxiv.org/abs/2205.09956) or [IEEE](https://ieeexplore.ieee.org/document/9794923).
 
 ![Illustrating the architecture of the proposed SAC](framework.png)
 
